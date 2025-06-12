@@ -1,0 +1,10 @@
+com\ums\Course$1.class
+com\ums\Course.class
+com\ums\Course$CourseBuilder.class
+com\ums\App.class
+com\ums\DatabaseConnectionManager.class
+com\ums\Professor.class
+com\ums\UserFactory.class
+com\ums\User.class
+com\ums\Admin.class
+com\ums\Student.class
